@@ -1,0 +1,13 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #01010101;
+    color: white;
+    text-align: center;
+}
+.content {
+    max-width: 800px; /* Ancho máximo del contenido */
+}
