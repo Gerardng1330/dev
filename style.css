@@ -9,5 +9,6 @@ body {
     text-align: center;
 }
 .content {
-    max-width: 800px; /* Ancho máximo del contenido */
+    max-width: 800px; 
+    color: black;/* Ancho máximo del contenido */
 }
